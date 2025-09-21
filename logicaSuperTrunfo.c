@@ -5,7 +5,7 @@
 // Este código implementa a comparação entre duas cartas
 // usando estruturas de decisão if e else.
 // Atributo escolhido: PIB per Capita (maior vence)
-// OBS: não há tratamento para empate (se os valores forem iguais, a Carta 2 vence)
+// NOTA: não há tratamento para empate (se os valores forem iguais, a Carta 2 vence)
 
 #define ATRIBUTO_PIB_PER_CAPITA 1
 
